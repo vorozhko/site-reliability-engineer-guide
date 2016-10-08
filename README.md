@@ -1,8 +1,10 @@
 # Site Realibility Engineer guide
 
-Collection of books, research papers, videos and articles which are relevant to Site Realibility Engineer. 
+Collection of books, research papers, videos and articles which are relevant to Site Realibility Engineer profession. 
 
 Information presented here is based on my best assumptions and research of internet. 
+
+Contribution is very welcome!
 
 ## Books
 

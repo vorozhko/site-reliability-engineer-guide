@@ -54,6 +54,7 @@ Contribution is very welcome!
 
 ## Resources
 
+- [ ] [Google SRE resources](https://landing.google.com/sre/resources.html)
 - [ ] [awesome-sre](https://github.com/dastergon/awesome-sre)
 - [ ] [SREcon16](https://www.usenix.org/conference/srecon16)
 - [ ] [SREcon15](https://www.usenix.org/conference/srecon15)

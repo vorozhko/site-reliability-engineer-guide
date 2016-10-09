@@ -50,6 +50,7 @@ Information presented here is based on my best assumptions and research of inter
 - [x] [How Container Clusters Like Kubernetes Change Operations](https://www.usenix.org/conference/srecon15europe/program/presentation/burns)
 - [x] [10 Years of Crashing Google](https://www.usenix.org/conference/lisa15/conference-program/presentation/krishnan)
 - [x] [Release Engineering Best Practices at Google](https://www.usenix.org/conference/lisa15/conference-program/presentation/mcnutt)
+- [x] [From Zero to Hero: Recommended Practices for Training your Ever-Evolving SRE Teams](https://www.usenix.org/conference/srecon15/program/presentation/widdowson)
 
 ## Trainings
 - [ ] [Google cloud code labs](https://codelabs.developers.google.com/?cat=Cloud)

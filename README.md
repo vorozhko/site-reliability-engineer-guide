@@ -48,8 +48,8 @@ Contribution is very welcome!
 
 ## Articles
 
-* [Release Engineering Best Practices at Google](https://www.usenix.org/conference/lisa15/conference-program/presentation/mcnutt)
-* [10 Years of Crashing Google](https://www.usenix.org/conference/lisa15/conference-program/presentation/krishnan)
+* [x][Release Engineering Best Practices at Google](https://www.usenix.org/conference/lisa15/conference-program/presentation/mcnutt)
+* [][10 Years of Crashing Google](https://www.usenix.org/conference/lisa15/conference-program/presentation/krishnan)
 
 ## Resources
 
@@ -57,7 +57,7 @@ Contribution is very welcome!
 * [SREcon16](https://www.usenix.org/conference/srecon16)
 * [SREcon15](https://www.usenix.org/conference/srecon15)
 * [SREcon14](https://www.usenix.org/conference/srecon14)
-* [Google Interview University](https://github.com/jwasham/google-interview-university) not so much SRE related, so use it with care
+* [Google Interview University](https://github.com/jwasham/google-interview-university)
 
 
 

@@ -4,8 +4,6 @@ Collection of books, research papers, videos and articles which are relevant to 
 
 Information presented here is based on my best assumptions and research of internet. 
 
-Contribution is very welcome!
-
 ## Books
 
 - [ ] Modern Operating Systems Tanenbaum, Andrew S.
@@ -49,6 +47,7 @@ Contribution is very welcome!
 ## SRE best practice
 
 - [x] [Keys to SRE by Ben Treynor](https://www.usenix.org/conference/srecon14/technical-sessions/presentation/keys-sre)
+- [x] [How Container Clusters Like Kubernetes Change Operations](https://www.usenix.org/conference/srecon15europe/program/presentation/burns)
 - [x] [10 Years of Crashing Google](https://www.usenix.org/conference/lisa15/conference-program/presentation/krishnan)
 - [x] [Release Engineering Best Practices at Google](https://www.usenix.org/conference/lisa15/conference-program/presentation/mcnutt)
 

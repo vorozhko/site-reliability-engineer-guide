@@ -58,10 +58,8 @@ Information presented here is based on my best assumptions and research of inter
 ## Resources
 
 - [ ] [Google SRE resources](https://landing.google.com/sre/resources.html)
+- [ ] [USENIX SRE conferences](https://www.usenix.org/conferences/byname/925)
 - [ ] [awesome-sre](https://github.com/dastergon/awesome-sre)
-- [ ] [SREcon16](https://www.usenix.org/conference/srecon16)
-- [ ] [SREcon15](https://www.usenix.org/conference/srecon15)
-- [ ] [SREcon14](https://www.usenix.org/conference/srecon14)
 - [ ] [Google Interview University](https://github.com/jwasham/google-interview-university)
 
 

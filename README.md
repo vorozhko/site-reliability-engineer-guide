@@ -46,10 +46,11 @@ Contribution is very welcome!
 - [ ] [Spark](http://spark.apache.org/)
 - [ ] [VMWare](http://www.vmware.com/products/vcloud-suite.html)
 
-## Articles
+## SRE best practice
 
-- [x] [Release Engineering Best Practices at Google](https://www.usenix.org/conference/lisa15/conference-program/presentation/mcnutt)
+- [x] [Keys to SRE by Ben Treynor](https://www.usenix.org/conference/srecon14/technical-sessions/presentation/keys-sre)
 - [x] [10 Years of Crashing Google](https://www.usenix.org/conference/lisa15/conference-program/presentation/krishnan)
+- [x] [Release Engineering Best Practices at Google](https://www.usenix.org/conference/lisa15/conference-program/presentation/mcnutt)
 
 ## Resources
 

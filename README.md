@@ -22,8 +22,6 @@ Information presented here is based on my best assumptions and research of inter
 ## Research papers
 
 - [x] [Large-scale cluster management at Google with Borg](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43438.pdf)
-- [ ] [Cgroups v1](https://www.kernel.org/doc/Documentation/cgroup-v1/cgroups.txt)
-- [ ] [Cgroups v2](https://www.kernel.org/doc/Documentation/cgroup-v2.txt)
 - [ ] [MapReduce: simplified data processing on large clusters](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf)
 - [ ] [Bigtable: A Distributed Storage System for Structured Data](http://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf)
 - [ ] [On designing and deploying internet-scale services](https://www.usenix.org/legacy/event/lisa07/tech/full_papers/hamilton/hamilton_html/)

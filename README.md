@@ -13,6 +13,7 @@ Information presented here is based on my best assumptions and research of inter
 - [ ] The datacenter as a computer: an introduction to the design of warehouse-scale machines
 - [ ] The Practice of System and Network Administration
 - [ ] The Practice of Cloud System Administration: Designing and Operating Large Distributed Systems
+- [ ] Time Management for System Administrators
 - [ ] The Go Programming Language Donovan, Alan A. A.
 - [ ] Think Python Downey, Allen B. 
 - [ ] The Linux Command Line Jr., William E. Shotts

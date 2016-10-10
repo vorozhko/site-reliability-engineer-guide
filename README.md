@@ -11,6 +11,8 @@ Information presented here is based on my best assumptions and research of inter
 - [ ] TCP/IP Illustrated, Volume 3: TCP for Transactions, HTTP, NNTP, and the Unix (R) Domain Protocols Stevens, W. Richard
 - [ ] Site Reliability Engineering: How Google Runs Production Systems
 - [ ] The datacenter as a computer: an introduction to the design of warehouse-scale machines
+- [ ] The Practice of System and Network Administration
+- [ ] The Practice of Cloud System Administration: Designing and Operating Large Distributed Systems
 - [ ] The Go Programming Language Donovan, Alan A. A.
 - [ ] Think Python Downey, Allen B. 
 - [ ] The Linux Command Line Jr., William E. Shotts

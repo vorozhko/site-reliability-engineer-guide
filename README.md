@@ -46,9 +46,7 @@ Information presented here is based on my best assumptions and research of inter
 - [ ] [Spark](http://spark.apache.org/)
 - [ ] [VMWare](http://www.vmware.com/products/vcloud-suite.html)
 
-### Monitoring
-#### Prometheus
-- [ ] [Prometheus](https://prometheus.io/)
+### [Prometheus](https://prometheus.io/)
 - [x] [PromCon 2016](https://www.youtube.com/playlist?list=PLoz-W_CUquUlCq-Q0hy53TolAhaED9vmU)
 
 ## SRE best practice

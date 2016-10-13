@@ -59,6 +59,7 @@ Information presented here is based on my best assumptions and research of inter
 - [x] [Release Engineering Best Practices at Google](https://www.usenix.org/conference/lisa15/conference-program/presentation/mcnutt)
 - [x] [From Zero to Hero: Recommended Practices for Training your Ever-Evolving SRE Teams](https://www.usenix.org/conference/srecon15/program/presentation/widdowson)
 - [x] [Transactional System Administration Is Killing Us and Must be Stopped](https://www.usenix.org/conference/lisa15/conference-program/presentation/limoncelli)
+- [x] [Lessons Learned From Scaling Uber To 2000 Engineers, 1000 Services, And 8000 Git Repositories](http://highscalability.com/blog/2016/10/12/lessons-learned-from-scaling-uber-to-2000-engineers-1000-ser.html)
 
 ## Trainings
 - [ ] [Google cloud code labs](https://codelabs.developers.google.com/?cat=Cloud)

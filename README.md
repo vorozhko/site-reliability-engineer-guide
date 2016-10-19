@@ -27,7 +27,7 @@ Information presented here is based on my best assumptions and research of inter
 - [x] [Large-scale cluster management at Google with Borg](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43438.pdf)
 - [ ] [MapReduce: simplified data processing on large clusters](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf)
 - [ ] [Bigtable: A Distributed Storage System for Structured Data](http://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf)
-- [ ] [On designing and deploying internet-scale services](https://www.usenix.org/legacy/event/lisa07/tech/full_papers/hamilton/hamilton_html/)
+- [x] [On designing and deploying internet-scale services](https://www.usenix.org/legacy/event/lisa07/tech/full_papers/hamilton/hamilton_html/)
 - [ ] [Mesos: a platform for fine-grained resource sharing in the data center](https://cs.stanford.edu/~matei/papers/2011/nsdi_mesos.pdf)
 - [ ] [Google: Reliable Cron across the Planet](https://queue.acm.org/detail.cfm?id=2745840)
 

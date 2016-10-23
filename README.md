@@ -21,6 +21,7 @@ Information presented here is based on my best assumptions and research of inter
 - [ ] Programming Pearls Bentley, Jon L.
 - [ ] The Practice Of Cloud System Administration: Designing and Operating Large Distributed Systems
 - [ ] Web Operations - Keeping the Data On Time
+- [ ] Systems Performance: Enterprise and the Cloud
 
 ## Research papers
 

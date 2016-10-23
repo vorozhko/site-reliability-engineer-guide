@@ -9,6 +9,7 @@ Information presented here is based on my best assumptions and research of inter
 - [ ] Modern Operating Systems Tanenbaum, Andrew S.
 - [ ] UNIX and Linux System Administration Handbook Nemeth, Evi
 - [ ] TCP/IP Illustrated, Volume 3: TCP for Transactions, HTTP, NNTP, and the Unix (R) Domain Protocols Stevens, W. Richard
+- [ ] Systems Performance: Enterprise and the Cloud
 - [x] Site Reliability Engineering: How Google Runs Production Systems
 - [ ] The datacenter as a computer: an introduction to the design of warehouse-scale machines
 - [ ] The Practice of System and Network Administration
@@ -21,7 +22,6 @@ Information presented here is based on my best assumptions and research of inter
 - [ ] Programming Pearls Bentley, Jon L.
 - [ ] The Practice Of Cloud System Administration: Designing and Operating Large Distributed Systems
 - [ ] Web Operations - Keeping the Data On Time
-- [ ] Systems Performance: Enterprise and the Cloud
 
 ## Research papers
 

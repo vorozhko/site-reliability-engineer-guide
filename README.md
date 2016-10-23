@@ -9,7 +9,7 @@ Information presented here is based on my best assumptions and research of inter
 - [ ] Modern Operating Systems Tanenbaum, Andrew S.
 - [ ] UNIX and Linux System Administration Handbook Nemeth, Evi
 - [ ] TCP/IP Illustrated, Volume 3: TCP for Transactions, HTTP, NNTP, and the Unix (R) Domain Protocols Stevens, W. Richard
-- [ ] Site Reliability Engineering: How Google Runs Production Systems
+- [x] Site Reliability Engineering: How Google Runs Production Systems
 - [ ] The datacenter as a computer: an introduction to the design of warehouse-scale machines
 - [ ] The Practice of System and Network Administration
 - [ ] The Practice of Cloud System Administration: Designing and Operating Large Distributed Systems
@@ -59,7 +59,7 @@ Information presented here is based on my best assumptions and research of inter
 - [x] [Transactional System Administration Is Killing Us and Must be Stopped](https://www.usenix.org/conference/lisa15/conference-program/presentation/limoncelli)
 - [x] [Lessons Learned From Scaling Uber To 2000 Engineers, 1000 Services, And 8000 Git Repositories](http://highscalability.com/blog/2016/10/12/lessons-learned-from-scaling-uber-to-2000-engineers-1000-ser.html)
 - [x] [Netflix: 190 Countries and 5 CORE SREs] (https://www.usenix.org/conference/srecon16/program/presentation/horowitz)
-- [ ] [Performance Checklists for SREs] (https://www.usenix.org/conference/srecon16/program/presentation/gregg)
+- [x] [Performance Checklists for SREs] (https://www.usenix.org/conference/srecon16/program/presentation/gregg)
 
 ## Trainings
 - [ ] [Google cloud code labs](https://codelabs.developers.google.com/?cat=Cloud)

@@ -30,7 +30,7 @@ Information presented here is based on my best assumptions and research of inter
 - [ ] [Bigtable: A Distributed Storage System for Structured Data](http://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf)
 - [x] [On designing and deploying internet-scale services](https://www.usenix.org/legacy/event/lisa07/tech/full_papers/hamilton/hamilton_html/)
 - [ ] [Mesos: a platform for fine-grained resource sharing in the data center](https://cs.stanford.edu/~matei/papers/2011/nsdi_mesos.pdf)
-- [ ] [Google: Reliable Cron across the Planet](https://queue.acm.org/detail.cfm?id=2745840)
+- [x] [Google: Reliable Cron across the Planet](https://queue.acm.org/detail.cfm?id=2745840)
 
 ## Technologies
 

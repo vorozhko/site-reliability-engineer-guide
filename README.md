@@ -20,7 +20,6 @@ Information presented here is based on my best assumptions and research of inter
 - [ ] The Linux Command Line Jr., William E. Shotts
 - [ ] Linux Server Hacks: 100 Industrial-Strength Tips and Tools Flickenger, Rob
 - [ ] Programming Pearls Bentley, Jon L.
-- [ ] The Practice Of Cloud System Administration: Designing and Operating Large Distributed Systems
 - [ ] Web Operations - Keeping the Data On Time
 
 ## Research papers

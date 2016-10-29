@@ -22,6 +22,11 @@ Information presented here is based on my best assumptions and research of inter
 - [ ] Programming Pearls Bentley, Jon L.
 - [ ] Web Operations - Keeping the Data On Time
 - [ ] [Thenewstack ebook seriece about Docker and containers](http://thenewstack.io/ebookseries/)
+ * [ ] The Docker and container ecosystem
+ * [ ] Applications and microservices with Docker and containers
+ * [ ] Automation and orchestration with Docker and containers
+ * [ ] Networking, security and storage with Docker and containers
+ * [ ] Monitoring and management with Docker and containers
 
 ## Research papers
 

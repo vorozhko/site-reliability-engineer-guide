@@ -21,7 +21,7 @@ Information presented here is based on my best assumptions and research of inter
 - [ ] Linux Server Hacks: 100 Industrial-Strength Tips and Tools Flickenger, Rob
 - [ ] Programming Pearls Bentley, Jon L.
 - [ ] Web Operations - Keeping the Data On Time
-- [ ] [Thenewstack ebook seriece about Docker and containers](http://thenewstack.io/ebookseries/)
+- [ ] [Thenewstack ebook series](http://thenewstack.io/ebookseries/)
  * [ ] The Docker and container ecosystem
  * [ ] Applications and microservices with Docker and containers
  * [ ] Automation and orchestration with Docker and containers

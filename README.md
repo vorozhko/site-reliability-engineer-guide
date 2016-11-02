@@ -21,6 +21,7 @@ Information presented here is based on my best assumptions and research of inter
 - [ ] Linux Server Hacks: 100 Industrial-Strength Tips and Tools Flickenger, Rob
 - [ ] Programming Pearls Bentley, Jon L.
 - [ ] Web Operations - Keeping the Data On Time
+- [ ] Microservices in Production
 
 ## Research papers
 

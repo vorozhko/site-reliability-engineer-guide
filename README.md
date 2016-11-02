@@ -72,13 +72,7 @@ Information presented here is based on my best assumptions and research of inter
 - [x] [SREcon 2016] (https://www.usenix.org/conference/srecon16/program)
 - [ ] [awesome-sre](https://github.com/dastergon/awesome-sre)
 - [ ] [Google Interview University](https://github.com/jwasham/google-interview-university)
-- [ ] [Thenewstack ebook series](http://thenewstack.io/ebookseries/)
- * [ ] The Docker and container ecosystem
- * [x] Applications and microservices with Docker and containers
- * [ ] Automation and orchestration with Docker and containers
- * [ ] Networking, security and storage with Docker and containers
- * [ ] Monitoring and management with Docker and containers
-
+- [x] [Thenewstack ebook series](http://thenewstack.io/ebookseries/)
 
 
 

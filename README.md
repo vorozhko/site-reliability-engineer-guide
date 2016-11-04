@@ -74,6 +74,7 @@ Information presented here is based on my best assumptions and research of inter
 - [ ] [awesome-sre](https://github.com/dastergon/awesome-sre)
 - [ ] [Google Interview University](https://github.com/jwasham/google-interview-university)
 - [x] [Thenewstack ebook series](http://thenewstack.io/ebookseries/)
+- [ ] [Web development with Go] (https://github.com/thewhitetulip/web-dev-golang-anti-textbook)
 
 
 

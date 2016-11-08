@@ -61,6 +61,7 @@ Information presented here is based on my best assumptions and research of inter
 - [x] [Lessons Learned From Scaling Uber To 2000 Engineers, 1000 Services, And 8000 Git Repositories](http://highscalability.com/blog/2016/10/12/lessons-learned-from-scaling-uber-to-2000-engineers-1000-ser.html)
 - [x] [Netflix: 190 Countries and 5 CORE SREs] (https://www.usenix.org/conference/srecon16/program/presentation/horowitz)
 - [x] [Performance Checklists for SREs] (https://www.usenix.org/conference/srecon16/program/presentation/gregg)
+- [x] [Notes on SRE book] (http://danluu.com/google-sre-book/)
 
 ## Trainings
 - [ ] [Google cloud code labs](https://codelabs.developers.google.com/?cat=Cloud)

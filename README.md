@@ -35,12 +35,12 @@ Information presented here is based on my best assumptions and research of inter
 ## Technologies
 
 - [ ] [Aurora](http://aurora.apache.org/)
-- [ ] [Docker](https://docs.docker.com/)
+- [x] [Docker](https://docs.docker.com/)
 - [ ] [Fluentd](http://www.fluentd.org/)
 - [ ] [ElasticSearch](https://www.elastic.co/products/elasticsearch)
 - [ ] [GCE](https://cloud.google.com/compute/docs/)
 - [ ] [Hadoop](http://hadoop.apache.org/)
-- [ ] [Kubernetes](http://kubernetes.io)
+- [x] [Kubernetes](http://kubernetes.io)
 - [ ] [Mesos](http://mesos.apache.org/)
 - [ ] [Kernel Based Virtual Machine](http://www.linux-kvm.org/page/Documents)
 - [ ] [Protocol Buffers](https://developers.google.com/protocol-buffers/)
@@ -62,6 +62,7 @@ Information presented here is based on my best assumptions and research of inter
 - [x] [Netflix: 190 Countries and 5 CORE SREs] (https://www.usenix.org/conference/srecon16/program/presentation/horowitz)
 - [x] [Performance Checklists for SREs] (https://www.usenix.org/conference/srecon16/program/presentation/gregg)
 - [x] [Notes on SRE book] (http://danluu.com/google-sre-book/)
+- [x] [SYSADMIN (Un)Reliability Budgets] (https://www.usenix.org/system/files/login/articles/login_aug15_06_roth.pdf)
 
 ## Trainings
 - [ ] [Google cloud code labs](https://codelabs.developers.google.com/?cat=Cloud)

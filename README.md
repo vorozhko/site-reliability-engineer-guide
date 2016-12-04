@@ -7,7 +7,7 @@ Information presented here is based on my best assumptions and research of inter
 ## Books
 
 - [ ] Modern Operating Systems Tanenbaum, Andrew S.
-- [ ] UNIX and Linux System Administration Handbook Nemeth, Evi
+- [x] UNIX and Linux System Administration Handbook Nemeth, Evi
 - [ ] TCP/IP Illustrated, Volume 3: TCP for Transactions, HTTP, NNTP, and the Unix (R) Domain Protocols Stevens, W. Richard
 - [ ] Systems Performance: Enterprise and the Cloud
 - [x] Site Reliability Engineering: How Google Runs Production Systems

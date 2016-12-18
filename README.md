@@ -22,6 +22,7 @@ Information presented here is based on my best assumptions and research of inter
 - [ ] Programming Pearls Bentley, Jon L.
 - [ ] Web Operations - Keeping the Data On Time
 - [ ] Microservices in Production
+- [ ] Docker up and running
 
 ## Research papers
 

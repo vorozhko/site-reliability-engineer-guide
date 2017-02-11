@@ -33,6 +33,9 @@ Information presented here is based on my best assumptions and research of inter
 - [ ] [Mesos: a platform for fine-grained resource sharing in the data center](https://cs.stanford.edu/~matei/papers/2011/nsdi_mesos.pdf)
 - [x] [Google: Reliable Cron across the Planet](https://queue.acm.org/detail.cfm?id=2745840)
 
+## Articles
+- [x] [Software engineering at Google](https://github.com/vorozhko/site-reliability-engineer-guide/blob/master/software-engeneering-at-google.pdf)
+
 ## Technologies
 
 - [ ] [Aurora](http://aurora.apache.org/)

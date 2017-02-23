@@ -1,8 +1,6 @@
 # Site Realibility Engineer guide
 
-Collection of books, research papers, videos and articles which are relevant to Site Realibility Engineer profession. 
-
-Information presented here is based on my best assumptions and research of internet. 
+Collection of books, research papers, videos and articles for mastering Site Realibility Engineer proficiency. 
 
 ## Books
 
@@ -33,9 +31,6 @@ Information presented here is based on my best assumptions and research of inter
 - [ ] [Mesos: a platform for fine-grained resource sharing in the data center](https://cs.stanford.edu/~matei/papers/2011/nsdi_mesos.pdf)
 - [x] [Google: Reliable Cron across the Planet](https://queue.acm.org/detail.cfm?id=2745840)
 
-## Articles
-- [x] [Software engineering at Google](https://github.com/vorozhko/site-reliability-engineer-guide/blob/master/software-engeneering-at-google.pdf)
-
 ## Technologies
 
 - [ ] [Aurora](http://aurora.apache.org/)
@@ -51,11 +46,18 @@ Information presented here is based on my best assumptions and research of inter
 - [ ] [Spark](http://spark.apache.org/)
 - [ ] [VMWare](http://www.vmware.com/products/vcloud-suite.html)
 
-### [Prometheus](https://prometheus.io/)
+## Networking
+
+- [ ] [Computer networking research papers](https://know-your-networks.blogspot.de/2017/02/must-read-computer-networking-research.html)
+- [ ] [High Performance Browser Networking](https://hpbn.co/)
+
+## Monitoring and alerting
+- [x] [Prometheus](https://prometheus.io/)
 - [x] [PromCon 2016](https://www.youtube.com/playlist?list=PLoz-W_CUquUlCq-Q0hy53TolAhaED9vmU)
 
 ## SRE best practice
 
+- [x] [Software engineering at Google](https://github.com/vorozhko/site-reliability-engineer-guide/blob/master/software-engeneering-at-google.pdf)
 - [x] [Keys to SRE by Ben Treynor](https://www.usenix.org/conference/srecon14/technical-sessions/presentation/keys-sre)
 - [x] [How Container Clusters Like Kubernetes Change Operations](https://www.usenix.org/conference/srecon15europe/program/presentation/burns)
 - [x] [10 Years of Crashing Google](https://www.usenix.org/conference/lisa15/conference-program/presentation/krishnan)
@@ -70,9 +72,10 @@ Information presented here is based on my best assumptions and research of inter
 
 ## Trainings
 - [ ] [Google cloud code labs](https://codelabs.developers.google.com/?cat=Cloud)
+- [ ] [Google cloud architect certification](https://cloud.google.com/certification/cloud-architect)
 
 
-## Resources
+## More
 
 - [ ] [Google SRE resources](https://landing.google.com/sre/resources.html)
 - [ ] [USENIX SRE conferences](https://www.usenix.org/conferences/byname/925)

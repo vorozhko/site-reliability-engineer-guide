@@ -1,4 +1,4 @@
-# Site Realibility Engineer guide
+# Site Reliability Engineer guide
 
 Collection of books, research papers, videos and articles for mastering Site Realibility Engineer proficiency. 
 

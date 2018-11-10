@@ -9,6 +9,7 @@ Collection of books, research papers, videos and articles for mastering Site Rel
 - [ ] TCP/IP Illustrated, Volume 3: TCP for Transactions, HTTP, NNTP, and the Unix (R) Domain Protocols Stevens, W. Richard
 - [ ] Systems Performance: Enterprise and the Cloud
 - [x] Site Reliability Engineering: How Google Runs Production Systems - Free to read online(https://landing.google.com/sre/book/index.html)
+- [x] The Site Reliability Workbook 
 - [ ] The datacenter as a computer: an introduction to the design of warehouse-scale machines
 - [ ] The Practice of System and Network Administration
 - [ ] The Practice of Cloud System Administration: Designing and Operating Large Distributed Systems
@@ -21,6 +22,7 @@ Collection of books, research papers, videos and articles for mastering Site Rel
 - [ ] Web Operations - Keeping the Data On Time
 - [ ] Microservices in Production
 - [ ] Docker up and running
+- [x] Kubernetes Up and Running By Brendan Burns, Kelsey Hightower, Joe Beda 
 
 ## Research papers
 
@@ -84,6 +86,7 @@ Collection of books, research papers, videos and articles for mastering Site Rel
 - [ ] [Google Interview University](https://github.com/jwasham/google-interview-university)
 - [x] [Thenewstack ebook series](http://thenewstack.io/ebookseries/)
 - [ ] [Web development with Go] (https://github.com/thewhitetulip/web-dev-golang-anti-textbook)
+- [ ] [SREcon 2018] https://www.youtube.com/watch?v=6utuaw0zCp8&list=PLbRoZ5Rrl5lf82DeddjRHVMcxnM3VbDbr
 
 
 

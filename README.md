@@ -81,12 +81,12 @@ Collection of books, research papers, videos and articles for mastering Site Rel
 
 - [ ] [Google SRE resources](https://landing.google.com/sre/resources.html)
 - [ ] [USENIX SRE conferences](https://www.usenix.org/conferences/byname/925)
-- [x] [SREcon 2016] (https://www.usenix.org/conference/srecon16/program)
+- [x] [SREcon 2016](https://www.usenix.org/conference/srecon16/program)
 - [ ] [awesome-sre](https://github.com/dastergon/awesome-sre)
 - [ ] [Google Interview University](https://github.com/jwasham/google-interview-university)
 - [x] [Thenewstack ebook series](http://thenewstack.io/ebookseries/)
-- [ ] [Web development with Go] (https://github.com/thewhitetulip/web-dev-golang-anti-textbook)
-- [ ] [SREcon 2018] https://www.youtube.com/watch?v=6utuaw0zCp8&list=PLbRoZ5Rrl5lf82DeddjRHVMcxnM3VbDbr
+- [ ] [Web development with Go](https://github.com/thewhitetulip/web-dev-golang-anti-textbook)
+- [ ] [SREcon 2018](https://www.youtube.com/watch?v=6utuaw0zCp8&list=PLbRoZ5Rrl5lf82DeddjRHVMcxnM3VbDbr)
 
 
 

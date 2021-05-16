@@ -90,6 +90,9 @@ Collection of books, research papers, videos and articles for mastering Site Rel
 - [ ] [Kubecon and Cloud Native](https://www.cncf.io/events/)
 - [ ] [PromCon](https://promcon.io/2021-online/)
 - [ ] [GrafanaCon](https://grafana.com/about/events/)
+- [ ] [DockerCon](https://www.docker.com/dockercon-live/2021)
+- [ ] [HashiConf](https://hashiconf.com/)
+- [ ] [DevOpscon](https://devopscon.io)
 
 
 

@@ -17,6 +17,7 @@ Collection of books, research papers, videos and articles for mastering Site Rel
 - [ ] Microservices in Production
 - [ ] Designing Data-Intensive Applications
 - [ ] Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Services - [Free to download](https://azure.microsoft.com/en-us/resources/designing-distributed-systems/en-us/)
+- [ ] Software Engineering at Google - [Free to download](https://abseil.io/resources/swe-book)
 
 ### Compute, Networking and Storage - theory and practice
 

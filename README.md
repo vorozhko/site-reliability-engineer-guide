@@ -1,6 +1,6 @@
 # Site Reliability Engineer guide
 
-Collection of books, research papers, videos and articles for mastering Site Reliability Engineer proficiency. 
+📚Collection of books, research papers, videos and articles for mastering Site Reliability Engineer proficiency. 
 
 ## Books
 
@@ -38,6 +38,7 @@ Collection of books, research papers, videos and articles for mastering Site Rel
 - [ ] The Go Programming Language Donovan, Alan A. A.
 - [ ] Think Python Downey, Allen B. 
 - [ ] Programming Pearls Bentley, Jon L.
+- [ ] Code Complete 2, Steve McConnell
 
 ### Other
 

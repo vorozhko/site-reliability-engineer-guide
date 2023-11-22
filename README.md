@@ -6,9 +6,9 @@
 
 ### SRE
 
-- [ ] Site Reliability Engineering: [How Google Runs Production Systems](https://sre.google/sre-book/table-of-contents/)
-- [ ] Site Reliability Engineering: [The Site Reliability Workbook](https://sre.google/workbook/table-of-contents/)
-- [ ] [Building Secure & Reliable Systems](https://static.googleusercontent.com/media/sre.google/en//static/pdf/building_secure_and_reliable_systems.pdf)
+- [ ] [How Google Runs Production Systems](https://sre.google/sre-book/table-of-contents/)
+- [ ] [The Site Reliability Workbook](https://sre.google/workbook/table-of-contents/)
+- [ ] [Building Secure & Reliable Systems](https://google.github.io/building-secure-and-reliable-systems/raw/toc.html)
 
 ### Kubernetes platform and applications
 
